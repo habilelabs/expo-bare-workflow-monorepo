@@ -1,0 +1,17 @@
+{
+  "name": "BareProjectExpoSecond",
+  "displayName": "BareProjectExpoSecond",
+  "expo": {
+    "name": "BareProjectExpoSecond",
+    "slug": "BareProjectExpoSecond",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

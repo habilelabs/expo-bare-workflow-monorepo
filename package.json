@@ -1,0 +1,15 @@
+{
+  "name": "monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "workspaces": {
+    "nohoist": [
+      "**/react-native",
+      "**/react-native/**",
+      "**/react-native-typescript-transformer"
+    ]
+  }
+}
